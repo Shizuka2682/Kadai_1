@@ -1,0 +1,37 @@
+.contact{
+    border-collapse:collapse;
+    width:100%;
+}
+
+.contact tr{
+    height:7rem;
+}
+
+.contact th{
+    width:150px;
+    background-color: #FCFCFC;
+    color:#4D4D4D;
+    text-align: right;
+}
+
+.contact_text{
+    width:480px;
+    margin-left:10px;
+}
+
+.contact_radio{
+    margin-left:10px;
+}
+
+.submit_button{
+    background-color:#008B8B;
+    color:white;
+    font-size:3rem;
+    margin:0 auto;
+    padding:10px;
+    display:block;
+}
+
+.submit_button:hover{
+    opacity: 0.5;
+}
